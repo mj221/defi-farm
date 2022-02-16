@@ -17,7 +17,7 @@ class Navbar extends Component {
           <img src={pfLogo} height="30" className="mb-1 mr-2" alt="" />
           Poi Token Farm
         </a>
-        <ul className="navbar-nav px-3">
+        <ul className="navbar-nav px-1">
             <li className="navbar-item text-nowrap d-none d-sm-none d-sm-block">
                 {this.props.account 
                     ? <><img

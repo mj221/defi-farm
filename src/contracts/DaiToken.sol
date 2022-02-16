@@ -1,4 +1,4 @@
-pragma solidity ^0.8.4;
+pragma solidity ^0.8.11;
 
 contract DaiToken {
     string  public name = "Mock DAI Token";
